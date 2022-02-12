@@ -1,0 +1,26 @@
+<p align="center">
+
+  <br>
+  <br>
+  
+  <img width="200" src="https://thedise.me/src/images/cat.gif">
+ 
+  <br>
+  <br>
+  
+  <samp>
+    <i>Yo!</i> I'm <b>Dise</b>.
+    <br> 
+    I'm a Developer & Designer from Ukraine.
+    <br>
+    <br>
+    <i>#java</i>, <i>#android</i>, <i>#instander</i>
+  </samp>
+  
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+
+</p>
