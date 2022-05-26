@@ -1,13 +1,9 @@
 <p align="center">
-
-  <br>
   <br>
   
   <img width="200" src="https://thedise.me/src/images/cat.gif">
  
   <br>
-  <br>
-  
   <samp>
     <i>Yo!</i> I'm <b>Dise</b>.
     <br> 
@@ -19,8 +15,4 @@
   
   <br>
   <br>
-  <br>
-  <br>
-  <br>
-
 </p>
