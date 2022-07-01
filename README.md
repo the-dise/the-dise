@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   
-  <img width="200" src="https://thedise.me/src/images/cat.gif">
+  <img width="200" src="https://thedise.me/src/images/hi.webp">
  
   <br>
   <samp>
