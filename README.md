@@ -10,7 +10,6 @@
     I'm a Developer & Designer from Ukraine.
     <br>
     <br>
-    <i>#java</i>, <i>#android</i>, <i>#instander</i>
   </samp>
   
   <br>
